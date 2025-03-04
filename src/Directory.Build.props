@@ -1,0 +1,18 @@
+<Project>
+
+  <PropertyGroup>
+
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <SelfContained>false</SelfContained>
+
+    <CopyLocalLockFileAssemblies>true</CopyLocalLockFileAssemblies>
+    <EnableUnsafeBinaryFormatterSerialization>true</EnableUnsafeBinaryFormatterSerialization>
+    <GenerateResourceWarnOnBinaryFormatterUse>false</GenerateResourceWarnOnBinaryFormatterUse>
+
+<!--    <RuntimeIdentifiers>linux-x64</RuntimeIdentifiers> -->
+  </PropertyGroup>
+
+
+
+
+</Project>
